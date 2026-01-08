@@ -118,7 +118,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Email</p>
-                      <p className="font-medium">abhishekkushwaha.np@gmail.com.com</p> {/* 👈 Your email */}
+                      <p className="font-medium">abhishekkushwaha.np@gmail.com</p> {/* 👈 Your email */}
                     </div>
                   </motion.div>
 
