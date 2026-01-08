@@ -62,7 +62,8 @@ const Contact = () => {
         });
         (e.target as HTMLFormElement).reset();
       } else {
-        throw new Error('Failed to send message');
+        const errorData = await response.json().catch(() => ({ detail: 'Server error' }));
+        throw new Error(errorData.detail || `Error: ${response.status}`);
       }
     } catch (error) {
       toast({

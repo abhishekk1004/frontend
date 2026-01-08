@@ -32,11 +32,11 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="group flex items-center gap-3">
             <motion.div
-              whileHover={{ rotate: 360 }}
-              transition={{ duration: 0.6 }}
-              className="w-10 h-10 rounded-full bg-gradient-to-br from-primary to-accent flex items-center justify-center"
+              whileHover={{ scale: 1.1 }}
+              transition={{ duration: 0.3 }}
+              className="w-10 h-10 rounded-lg bg-gradient-to-br from-amber-500 to-orange-500 flex items-center justify-center shadow-lg"
             >
-              <span className="font-heading text-lg font-bold text-primary-foreground">AK</span>
+              <span className="font-heading text-lg font-bold text-white">✨</span>
             </motion.div>
             <span className="font-heading text-xl font-semibold hidden sm:block">
               Abhishek <span className="text-primary">Kushwaha</span>
