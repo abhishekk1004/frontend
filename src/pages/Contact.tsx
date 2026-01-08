@@ -43,8 +43,10 @@ const Contact = () => {
     
     try {
       const formData = new FormData(e.currentTarget);
-      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000/api';
-      const response = await fetch(`${apiUrl}/contacts/`, {
+      const apiUrl = (import.meta.env.VITE_API_URL || 'http://localhost:8000/api').replace(/\/$/, '');
+      const endpoint = `${apiUrl}/contacts/`;
+      
+      const response = await fetch(endpoint, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -66,6 +68,7 @@ const Contact = () => {
         throw new Error(errorData.detail || `Error: ${response.status}`);
       }
     } catch (error) {
+      console.error('Contact form error:', error);
       toast({
         title: "Error",
         description: "Failed to send message. Please try again.",
