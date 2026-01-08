@@ -43,8 +43,11 @@ const Contact = () => {
     
     try {
       const formData = new FormData(e.currentTarget);
-      const apiUrl = (import.meta.env.VITE_API_URL || 'http://localhost:8000/api').replace(/\/$/, '');
+      const baseUrl = String(import.meta.env.VITE_API_URL || 'http://localhost:8000/api');
+      const apiUrl = baseUrl.replace(/\/$/, '');
       const endpoint = `${apiUrl}/contacts/`;
+      
+      console.log('Sending to endpoint:', endpoint);
       
       const response = await fetch(endpoint, {
         method: 'POST',
