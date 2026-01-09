@@ -203,7 +203,7 @@ const Index = () => {
                    */}
                   <div className="w-48 h-48 mx-auto rounded-full overflow-hidden border-4 border-primary/30 mb-6 animate-float">
                     <img
-                      src="src/assets/images/abhi_poster.png"
+                      src="public/abhi_poster.png"
                       alt="Abhishek Kushwaha"
                       className="w-full h-full object-cover"
                     />
