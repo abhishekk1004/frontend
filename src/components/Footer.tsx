@@ -3,11 +3,11 @@ import { Github, Linkedin, Twitter, Instagram, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const socialLinks = [
-  { icon: Github, href: '#', label: 'GitHub' },
-  { icon: Linkedin, href: '#', label: 'LinkedIn' },
-  { icon: Twitter, href: '#', label: 'Twitter' },
-  { icon: Instagram, href: '#', label: 'Instagram' },
-  { icon: Mail, href: '#', label: 'Email' },
+  { icon: Github, href: 'https://github.com/abhishekk1004', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/abhishekkushwaha-py/', label: 'LinkedIn' },
+  { icon: Twitter, href: 'https://x.com/abhishekk_1004', label: 'Twitter' },
+  { icon: Instagram, href: 'https://instagram.com/_abhi_shek_1004', label: 'Instagram' },
+  { icon: Mail, href: 'mailto:abhishekkushwaha.np@gmail.com', label: 'Email' },
 ];
 
 const Footer = () => {
