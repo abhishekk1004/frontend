@@ -3,8 +3,6 @@
  * PHOTOGRAPHY PAGE - ALBUM GALLERY
  * =============================================================================
  * 
- * 📍 WHAT TO CUSTOMIZE:
- * 
  */
 
 import { useState } from 'react';
