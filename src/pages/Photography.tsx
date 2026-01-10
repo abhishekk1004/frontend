@@ -148,20 +148,7 @@ const albums = [
     ],
     count: 6,
   }
-  /* 
-   * ➕ ADD MORE ALBUMS HERE
-   * Copy the structure above and paste below:
-   * 
-   * {
-   *   name: "Your Album Name",
-   *   cover: "https://your-cover-image-url.jpg",
-   *   photos: [
-   *     "https://photo1.jpg",
-   *     "https://photo2.jpg",
-   *   ],
-   *   count: 2,
-   * },
-   */
+  
 ];
 
 const Photography = () => {
