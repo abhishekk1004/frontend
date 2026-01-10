@@ -5,7 +5,6 @@
  * 
  * 📍 WHAT TO CUSTOMIZE:
  * 
- * 1. ALBUMS (Lines ~20-80): Add your own photo albums
  */
 
 import { useState } from 'react';
