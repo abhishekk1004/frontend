@@ -101,7 +101,7 @@ const Resume = () => {
                 className="w-32 h-32 rounded-2xl overflow-hidden border-4 border-primary/30"
               >
                 <img
-                  src="public/abhi_poster.png"hange to your photo URL
+                  src="/abhi_poster.png" 
                   alt="Abhishek Kushwaha"
                   className="w-full h-full object-cover"
                 />
