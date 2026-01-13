@@ -101,7 +101,7 @@ const Resume = () => {
                 className="w-32 h-32 rounded-2xl overflow-hidden border-4 border-primary/30"
               >
                 <img
-                  src="src/assets/images/abhi_poster.png" // 👈 Change to your photo URL
+                  src="public/abhi_poster.png"hange to your photo URL
                   alt="Abhishek Kushwaha"
                   className="w-full h-full object-cover"
                 />
@@ -256,9 +256,9 @@ const Resume = () => {
                     <p className="text-primary text-lg mb-4">Full Stack Developer & ML Enthusiast</p>
                     {/* 📞 YOUR CONTACT INFO */}
                     <div className="flex flex-wrap justify-center gap-4 text-sm text-muted-foreground">
-                      <span>📧 abhishek@example.com</span>   {/* Your email */}
-                      <span>📱 +91 XXXXX XXXXX</span>        {/* Your phone */}
-                      <span>📍 India</span>                  {/* Your location */}
+                      <span>📧 abhishekkushwaha.np@gmail.com {/* Your email */}</span>
+                      <span>📱 +977 9849852109</span>
+                      <span>📍 Kathmandu, Nepal{/* Your location */}</span>
                     </div>
                   </div>
 
