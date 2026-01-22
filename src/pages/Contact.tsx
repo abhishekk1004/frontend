@@ -152,7 +152,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Location</p>
-                      <p className="font-medium">Kathmandu, Nepal</p> {/* 👈 Your location */}
+                      <p className="font-medium">Kathmandu, Nepal</p> 
                     </div>
                   </motion.div>
                 </div>
