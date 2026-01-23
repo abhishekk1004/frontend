@@ -138,7 +138,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Phone</p>
-                      <p className="font-medium">+977 9849852109</p> {/* 👈 Your phone */}
+                      <p className="font-medium">+977 9849852109</p> 
                     </div>
                   </motion.div>
 
