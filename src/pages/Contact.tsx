@@ -163,7 +163,7 @@ const Contact = () => {
                   <div className="flex gap-3 flex-wrap">
                     {/* 👈 ADD YOUR SOCIAL MEDIA LINKS HERE */}
                     <a
-                      href="https://github.com/abhishekk1004" // 👈 Change to your GitHub
+                      href="https://github.com/abhishekk1004" 
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-10 h-10 rounded-xl bg-primary/10 hover:bg-primary/20 flex items-center justify-center transition-colors"
