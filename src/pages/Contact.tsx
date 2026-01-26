@@ -172,7 +172,7 @@ const Contact = () => {
                       <Github className="h-5 w-5 text-primary" />
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/abhishekkushwaha-py/" // 👈 Change to your LinkedIn
+                      href="https://www.linkedin.com/in/abhishekkushwaha-py/" 
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-10 h-10 rounded-xl bg-primary/10 hover:bg-primary/20 flex items-center justify-center transition-colors"
