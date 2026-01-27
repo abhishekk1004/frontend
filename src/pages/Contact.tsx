@@ -181,7 +181,7 @@ const Contact = () => {
                       <Linkedin className="h-5 w-5 text-primary" />
                     </a>
                     <a
-                      href="https://x.com/abhishekk_1004" // 👈 Change to your Twitter
+                      href="https://x.com/abhishekk_1004" 
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-10 h-10 rounded-xl bg-primary/10 hover:bg-primary/20 flex items-center justify-center transition-colors"
