@@ -313,7 +313,7 @@ const Contact = () => {
 
       {/* ================================================================
           MOTIVATIONAL QUOTE SECTION
-          (Changes daily - see QuoteSection component)
+          (Changes daily)
           ================================================================ */}
       <div className="mt-20">
         <QuoteSection />
