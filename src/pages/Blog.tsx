@@ -32,12 +32,7 @@ import SectionHeader from '@/components/SectionHeader';
 import BlogCard from '@/components/BlogCard';
 import { Button } from '@/components/ui/button';
 
-/**
- * ============================================
- * 📝 BLOGS DATA
- * Replace with your actual blog posts
- * ============================================
- */
+
 const blogs = [
   {
     title: "Building Scalable APIs with Django REST Framework",
