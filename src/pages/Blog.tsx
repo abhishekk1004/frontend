@@ -39,7 +39,7 @@ const blogs = [
     excerpt: "Learn how to design and implement production-ready APIs using Django REST Framework with best practices for authentication, pagination, and caching.",
     date: "Dec 28, 2024",
     readTime: "8 min read",
-    image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800", // 🖼️ Blog thumbnail
+    image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800", 
     category: "Django",
     slug: "building-scalable-apis-django",
     featured: true,
