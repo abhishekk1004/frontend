@@ -128,7 +128,6 @@ const blogs = [
  * ============================================
  * 📂 CATEGORIES
  * Update with your blog categories
- * ============================================
  */
 const categories = ["All", "Django", "Python", "Machine Learning", "Deep Learning", "DevOps", "Photography"];
 
