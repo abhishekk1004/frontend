@@ -125,7 +125,6 @@ const blogs = [
 ];
 
 /**
- * ============================================
  * 📂 CATEGORIES
  * Update with your blog categories
  */
