@@ -101,7 +101,6 @@ const certificates = [
   /* 
    * ➕ ADD MORE CERTIFICATES HERE
    * Copy the structure above and paste below:
-   * 
    * {
    *   title: "Your Certificate Name",
    *   issuer: "Issuing Organization",
