@@ -2,9 +2,7 @@
  * =============================================================================
  * CERTIFICATES & BADGES PAGE
  * =============================================================================
- * 
  * 📍 WHAT TO CUSTOMIZE:
- * 
  * 1. CERTIFICATES DATA (Lines ~20-80): Add your real certificates
  *    - title: Certificate/badge name
  *    - issuer: Organization that issued it
