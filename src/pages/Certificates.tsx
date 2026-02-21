@@ -16,7 +16,6 @@
  * - Upload it to your hosting/cloud storage
  * - Use that URL in the 'image' field
  * 
- * =============================================================================
  */
 
 import { useState } from 'react';
