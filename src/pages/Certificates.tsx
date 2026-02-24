@@ -14,8 +14,7 @@
  * 🔧 FOR OFFLINE CERTIFICATES:
  * - Take a photo of your physical certificate
  * - Upload it to your hosting/cloud storage
- * - Use that URL in the 'image' field
- 
+ * - Use that URL in the 'image' fiel
  */
 
 import { useState } from 'react';
