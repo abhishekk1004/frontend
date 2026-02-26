@@ -46,14 +46,9 @@ const skills = [
  * ============================================
  */
 const experience = [
+  
   {
-    role: "Full Stack Developer",          // 👔 Your job title
-    company: "Tech Company",               // 🏢 Company name
-    period: "2022 - Present",              // 📅 Employment period
-    description: "Building scalable web applications with Django and React",
-  },
-  {
-    role: "ML Engineer Intern",
+    role: "Python Instructor and Mentor",
     company: "AI Startup",
     period: "2021 - 2022",
     description: "Developed ML models for NLP and computer vision applications",
@@ -233,7 +228,8 @@ const Resume = () => {
                    * 📄 DOWNLOAD PDF BUTTON
                    * Add your resume PDF URL here
                    */}
-                  <Button variant="outline" size="sm">
+                  <Button variant="outline" size="sm" asChild>
+                    <a href="/resume/abhishekcv.pdf" download></a>
                     <Download className="mr-2 h-4 w-4" />
                     Download PDF
                   </Button>
