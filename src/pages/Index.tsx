@@ -66,7 +66,6 @@ const featuredBlogs = [
  * ============================================
  * 🎯 SKILLS DATA
  * Modify your skills shown on homepage
- * ============================================
  */
 const skills = [
   { icon: Code, label: "Python & Django", description: "Backend Development" },
