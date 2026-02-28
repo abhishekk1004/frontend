@@ -64,7 +64,7 @@ const featuredBlogs = [
 
 /**
  * ============================================
- * 🎯 SKILLS DATA
+ 
  * Modify your skills shown on homepage
  */
 const skills = [
