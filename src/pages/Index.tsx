@@ -114,7 +114,7 @@ const Index = () => {
           <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-transparent" />
         </motion.div>
 
-        {/* Film grain overlay for vintage effect */}
+        {/* Film grain overlay vintage effect */}
         <div className="absolute inset-0 film-grain z-10 pointer-events-none" />
 
         {/* ================================================================
