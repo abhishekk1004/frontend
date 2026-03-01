@@ -87,7 +87,6 @@ const Index = () => {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         
         {/* 
-         * 🎬 VIDEO BACKGROUND
          * Replace the video source URL with your own vintage video
          * The poster is the fallback image shown before video loads
          */}
