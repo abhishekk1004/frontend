@@ -311,7 +311,7 @@ const Contact = () => {
         </div>
       </div>
 
-      {/*(Changes daily) */}
+      {/*d(Changes daily*/}
       <div className="mt-20">
         <QuoteSection />
       </div>
