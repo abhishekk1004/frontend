@@ -12,7 +12,6 @@ import { Button } from '@/components/ui/button';
  * ============================================
  * 📸 PHOTO ALBUMS DATA
  * Add your own albums and photos here
- * ============================================
  */
 const albums = [
   {
