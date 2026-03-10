@@ -16,7 +16,7 @@ const projects = [
     tags: ["Python", "TensorFlow", "NLP", "Flask"],
     liveUrl: "https://example.com",    // 🔗 Live demo URL (remove if no demo)
     githubUrl: "https://github.com",   // 🔗 GitHub repo URL
-    featured: true,                     // ⭐ Featured projects appear first
+    featured: true,                     
   },
   {
     title: "E-Commerce Platform",
@@ -58,7 +58,6 @@ const projects = [
     githubUrl: "https://github.com",
   },
   /* 
-   * ➕ ADD MORE PROJECTS HERE
    * 
    * {
    *   title: "Your Project Name",
@@ -71,7 +70,6 @@ const projects = [
    * },
    */
 ];
-
 const Projects = () => {
   return (
     <main className="min-h-screen pt-24 pb-20">
