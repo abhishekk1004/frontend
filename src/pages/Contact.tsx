@@ -161,7 +161,7 @@ const Contact = () => {
                 <div className="mt-8 pt-8 border-t border-border/50">
                   <p className="text-sm font-medium mb-4">Follow me on</p>
                   <div className="flex gap-3 flex-wrap">
-                    {/* 👈 ADD YOUR SOCIAL MEDIA LINKS  */}
+                    {/* 👈 ADD YOUR SOCIAL MEDIA */}
                     <a
                       href="https://github.com/abhishekk1004" 
                       target="_blank"
