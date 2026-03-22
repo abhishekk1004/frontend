@@ -128,7 +128,7 @@ const Contact = () => {
                     </div>
                   </motion.div>
 
-                  {/* 📱 YOUR PHONE */}
+                  {/* 📱 YOUR */}
                   <motion.div
                     whileHover={{ x: 5 }}
                     className="flex items-center gap-4 p-4 rounded-2xl bg-muted/50 hover:bg-muted transition-colors"
