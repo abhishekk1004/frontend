@@ -210,7 +210,7 @@ export const contactAPI = {
     method: 'POST',
     body: JSON.stringify(data),
   }),
-  getAll: () => apiFetch<any[]>('/contacts/'), // Admin only
+  getAll: () => apiFetch<Contact[]>('/contacts/'), // Admin only
 };
 
 // ============================================

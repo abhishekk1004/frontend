@@ -34,7 +34,6 @@ const Contact = () => {
   /**
    * ============================================
    * 📨 FORM SUBMISSION HANDLER
-   * Connect this to your Django API
    * ============================================
    */
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {

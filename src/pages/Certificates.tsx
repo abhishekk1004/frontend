@@ -26,7 +26,6 @@ import { Button } from '@/components/ui/button';
 /**
  * ============================================
  * 🏆 CERTIFICATES & BADGES DATA
- * Add your real certificates here
  * ============================================
  */
 const certificates = [
