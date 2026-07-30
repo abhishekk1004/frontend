@@ -12,10 +12,6 @@
  * 5. EDUCATION (Lines ~255): Your educational background
  * 
  * 🔧 FOR RESUME PDF:
- * - Upload your resume PDF to your hosting
- * - Add download functionality to the "Download PDF" button
- * 
- * =============================================================================
  */
 
 import { useState } from 'react';
