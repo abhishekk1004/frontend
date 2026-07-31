@@ -9,7 +9,6 @@
  * 2. EXPERIENCE (Lines ~35-50): Your work experience
  * 3. PROFILE INFO (Lines ~65-80): Your name, title, description
  * 4. CONTACT INFO (Lines ~195): Email, phone, location
- * 5. EDUCATION (Lines ~255): Your educational background
  * 
  * 🔧 FOR RESUME PDF:
  */
