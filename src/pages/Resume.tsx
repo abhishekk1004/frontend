@@ -8,7 +8,6 @@
  * 1. SKILLS (Lines ~20-30): Your technical skills by category
  * 2. EXPERIENCE (Lines ~35-50): Your work experience
  * 3. PROFILE INFO (Lines ~65-80): Your name, title, description
- * 🔧 FOR RESUME PDF:
  */
 
 import { useState } from 'react';
