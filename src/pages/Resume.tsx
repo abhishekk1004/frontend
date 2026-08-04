@@ -6,7 +6,6 @@
  * 📍 WHAT TO CUSTOMIZE:
  * 
  * 1. SKILLS (Lines ~20-30): Your technical skills by category
- * 2. EXPERIENCE (Lines ~35-50): Your work experience
  */
 
 import { useState } from 'react';
