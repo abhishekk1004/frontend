@@ -5,7 +5,6 @@
  * 
  * 📍 WHAT TO CUSTOMIZE:
  * 
- * 1. SKILLS (Lines ~20-30): Your technical skills by category
  */
 
 import { useState } from 'react';
