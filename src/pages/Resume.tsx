@@ -9,7 +9,6 @@ import SectionHeader from '@/components/SectionHeader';
 import { Button } from '@/components/ui/button';
 
 /**
- * ============================================
  */
 const skills = [
   { category: "Languages", items: ["Python", "JavaScript", "TypeScript", "SQL", "Bash"] },
