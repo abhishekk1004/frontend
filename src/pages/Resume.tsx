@@ -8,8 +8,7 @@ import { X, Download, FileText, Code, Server, Sparkles, Camera, ExternalLink } f
 import SectionHeader from '@/components/SectionHeader';
 import { Button } from '@/components/ui/button';
 
-/**
- */
+
 const skills = [
   { category: "Languages", items: ["Python", "JavaScript", "TypeScript", "SQL", "Bash"] },
   { category: "Backend", items: ["Django", "Django REST", "FastAPI", "Flask", "Node.js"] },
