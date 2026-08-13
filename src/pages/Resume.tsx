@@ -11,7 +11,6 @@ import { Button } from '@/components/ui/button';
 /**
  * ============================================
  * 🎯 SKILLS DATA
- * Organize your skills by category
  */
 const skills = [
   { category: "Languages", items: ["Python", "JavaScript", "TypeScript", "SQL", "Bash"] },
