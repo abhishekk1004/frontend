@@ -10,7 +10,6 @@ import { Button } from '@/components/ui/button';
 
 /**
  * ============================================
- * 🎯 SKILLS DATA
  */
 const skills = [
   { category: "Languages", items: ["Python", "JavaScript", "TypeScript", "SQL", "Bash"] },
