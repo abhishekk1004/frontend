@@ -21,7 +21,6 @@ const skills = [
 /**
  * ============================================
  * 💼 EXPERIENCE DATA
- * Add your work experience
  */
 const experience = [
   
