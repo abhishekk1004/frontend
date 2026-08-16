@@ -20,7 +20,6 @@ const skills = [
 
 /**
  * ============================================
- * 💼 EXPERIENCE DATA
  */
 const experience = [
   
