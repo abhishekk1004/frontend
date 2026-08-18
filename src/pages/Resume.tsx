@@ -18,8 +18,7 @@ const skills = [
   { category: "Tools", items: ["Git", "Linux", "PostgreSQL", "Redis", "MongoDB"] },
 ];
 
-/**
- */
+
 const experience = [
   
   {
