@@ -1,5 +1,4 @@
 /**
- * RESUME PAGE
  */
 
 import { useState } from 'react';
