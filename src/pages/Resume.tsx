@@ -1,5 +1,3 @@
-
-
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, Download, FileText, Code, Server, Sparkles, Camera, ExternalLink } from 'lucide-react';
