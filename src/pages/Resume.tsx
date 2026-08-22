@@ -30,7 +30,6 @@ const experience = [
    *   company: "Company Name",
    *   period: "Start - End",
    *   description: "What you did there",
-   * },
    */
 ];
 
