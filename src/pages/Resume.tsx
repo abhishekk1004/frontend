@@ -29,7 +29,6 @@ const experience = [
    *   role: "Your Role",
    *   company: "Company Name",
    *   period: "Start - End",
-   *   description: "What you did there",
    */
 ];
 
