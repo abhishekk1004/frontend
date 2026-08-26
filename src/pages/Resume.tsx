@@ -26,7 +26,6 @@ const experience = [
   /* 
    * ➕ ADD MORE EXPERIENCE HERE
    * {
-   *   role: "Your Role",
    */
 ];
 
