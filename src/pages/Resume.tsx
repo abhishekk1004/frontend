@@ -25,7 +25,6 @@ const experience = [
   },
   /* 
    * ➕ ADD MORE EXPERIENCE HERE
-   * {
    */
 ];
 
