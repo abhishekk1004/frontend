@@ -24,7 +24,6 @@ const experience = [
     description: "Developed ML models for NLP and computer vision applications",
   },
   /* 
-   * ➕ ADD MORE EXPERIENCE HERE
    */
 ];
 
