@@ -23,8 +23,7 @@ const experience = [
     period: "2021 - 2022",
     description: "Developed ML models for NLP and computer vision applications",
   },
-  /* 
-   */
+
 ];
 
 const Resume = () => {
