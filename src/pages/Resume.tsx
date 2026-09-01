@@ -63,7 +63,6 @@ const Resume = () => {
               </motion.div>
 
               <div className="text-center md:text-left flex-1">
-                {/* 👤 YOUR NAME */}
                 <h1 className="font-heading text-3xl md:text-4xl font-bold mb-2">
                   Abhishek Kushwaha
                 </h1>
