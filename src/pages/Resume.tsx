@@ -159,7 +159,6 @@ const Resume = () => {
           </motion.div>
         </motion.div>
 
-        {/* FULL RESUME MODAL */}
         <AnimatePresence>
           {isResumeOpen && (
             <motion.div
@@ -266,7 +265,7 @@ const Resume = () => {
                     <div className="bg-muted/50 rounded-xl p-6">
                       <h3 className="font-semibold text-lg">Computer Science with AI</h3>
                       <p className="text-primary">Softwarica College of IT and E-Commerce</p>
-                      <p className="text-sm text-muted-foreground">2025-2026</p>
+                      <p className="text-sm text-muted-foreground">2025-present</p>
                     </div>
                   </section>
 
