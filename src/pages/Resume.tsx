@@ -109,8 +109,7 @@ const Resume = () => {
           </div>
 
           {/* ================================================================
-              EXPERIENCE SECTION
-              ================================================================ */}
+              EXPERIENCE SECTION*/}
           <div className="glass-card rounded-3xl p-8 mb-8">
             <h2 className="font-heading text-2xl font-bold mb-6 flex items-center gap-2">
               <FileText className="h-6 w-6 text-primary" />
