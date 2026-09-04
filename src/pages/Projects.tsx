@@ -11,7 +11,6 @@
  *    - image: Screenshot or thumbnail of the project
  *    - tags: Technologies used
  *    - liveUrl: Live demo URL (optional)
- *    - githubUrl: GitHub repository URL
  */
 
 import { motion } from 'framer-motion';
