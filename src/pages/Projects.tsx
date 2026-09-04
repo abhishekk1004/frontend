@@ -15,7 +15,6 @@
  *    - featured: Set to true for important projects
  * 
  * 2. STATS (Lines ~85-90): Update with your real numbers
- * 
  */
 
 import { motion } from 'framer-motion';
