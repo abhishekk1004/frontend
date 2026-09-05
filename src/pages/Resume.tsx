@@ -79,8 +79,7 @@ const Resume = () => {
             </div>
           </div>
 
-          {/* ================================================================
-              SKILLS GRID */}
+          {/* SKILLS GRID */}
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
             {skills.map((skillGroup, index) => (
               <motion.div
