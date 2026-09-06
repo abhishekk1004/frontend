@@ -10,7 +10,6 @@
  *    - description: Brief description of the project
  *    - image: Screenshot or thumbnail of the project
  *    - tags: Technologies used
- *    - liveUrl: Live demo URL (optional)
  */
 
 import { motion } from 'framer-motion';
