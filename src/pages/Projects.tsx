@@ -12,8 +12,6 @@
  *    - tags: Technologies used
  *    - liveUrl: Live demo URL (optional)
  *    - githubUrl: GitHub repository URL
- *    - featured: Set to true for important projects
- * 
  */
 
 import { motion } from 'framer-motion';
