@@ -9,7 +9,6 @@
  *    - title: Project name
  *    - description: Brief description of the project
  *    - image: Screenshot or thumbnail of the project
- *    - tags: Technologies used
  */
 
 import { motion } from 'framer-motion';
