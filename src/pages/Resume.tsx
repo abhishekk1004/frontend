@@ -160,8 +160,7 @@ const Resume = () => {
         </motion.div>
 
         {/* ================================================================
-            FULL RESUME MODAL
-            ================================================================ */}
+            FULL RESUME MODAL */}
         <AnimatePresence>
           {isResumeOpen && (
             <motion.div
