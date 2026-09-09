@@ -7,7 +7,6 @@
  * 
  * 1. PROJECTS DATA (Lines ~20-60): Add your real projects
  *    - title: Project name
- *    - description: Brief description of the project
  */
 
 import { motion } from 'framer-motion';
