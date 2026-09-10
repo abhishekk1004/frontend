@@ -177,7 +177,6 @@ const Resume = () => {
                 >
                   {/* 
                    * 📄 DOWNLOAD PDF BUTTON
-                   * Add your resume PDF URL here
                    */}
                   <Button variant="outline" size="sm" asChild>
                     <a href="/resume/abhishekcv.pdf" download></a>
