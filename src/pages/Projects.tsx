@@ -4,8 +4,6 @@
  * =============================================================================
  * 
  * 📍 WHAT TO CUSTOMIZE:
- * 
- * 1. PROJECTS DATA (Lines ~20-60): Add your real projects
  */
 
 import { motion } from 'framer-motion';
