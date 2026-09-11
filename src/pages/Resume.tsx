@@ -204,7 +204,7 @@ const Resume = () => {
                     <div className="flex flex-wrap justify-center gap-4 text-sm text-muted-foreground">
                       <span>📧 abhishekkushwaha.np@gmail.com {/* Your email */}</span>
                       <span>📱 +977 9849852109</span>
-                      <span>📍 Kathmandu, Nepal{/* Your location */}</span>
+                      <span>📍 Kathmandu, Nepal</span>
                     </div>
                   </div>
 
