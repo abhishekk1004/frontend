@@ -202,7 +202,7 @@ const Resume = () => {
                     <p className="text-primary text-lg mb-4">Full Stack Developer & ML Enthusiast</p>
                     {/* 📞 YOUR CONTACT INFO */}
                     <div className="flex flex-wrap justify-center gap-4 text-sm text-muted-foreground">
-                      <span>📧 abhishekkushwaha.np@gmail.com {/* Your email */}</span>
+                      <span>📧 abhishekkushwaha.np@gmail.com </span>
                       <span>📱 +977 9849852109</span>
                       <span>📍 Kathmandu, Nepal</span>
                     </div>
