@@ -197,7 +197,6 @@ const Resume = () => {
                 >
                   {/* Header */}
                   <div className="text-center border-b border-border pb-8 mb-8">
-                    {/* 👤 YOUR NAME */}
                     <h1 className="font-heading text-4xl font-bold mb-2">Abhishek Kushwaha</h1>
                     <p className="text-primary text-lg mb-4">Full Stack Developer & ML Enthusiast</p>
                     {/* 📞 YOUR CONTACT INFO */}
