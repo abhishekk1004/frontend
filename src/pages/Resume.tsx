@@ -262,11 +262,11 @@ const Resume = () => {
                     <h2 className="font-heading text-xl font-bold text-primary mb-4 flex items-center gap-2">
                       <Sparkles className="h-5 w-5" /> Education
                     </h2>
-                    {/* 🎓 YOUR EDUCATION - Update this section */}
+                    <p className="text-muted-foreground mb-4"></p>
                     <div className="bg-muted/50 rounded-xl p-6">
-                      <h3 className="font-semibold text-lg">Bachelor of Technology in Computer Science</h3>
-                      <p className="text-primary">University Name</p>
-                      <p className="text-sm text-muted-foreground">2018 - 2022</p>
+                      <h3 className="font-semibold text-lg">Computer Science with AI</h3>
+                      <p className="text-primary">Softwarica College of IT and E-Commerce</p>
+                      <p className="text-sm text-muted-foreground">2025-2026</p>
                     </div>
                   </section>
 
