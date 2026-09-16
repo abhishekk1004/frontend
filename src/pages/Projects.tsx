@@ -9,7 +9,6 @@ import ProjectCard from '@/components/ProjectCard';
 
 /**
  * ============================================
- * 💼 PROJECTS DATA
  */
 const projects = [
   {
