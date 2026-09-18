@@ -59,7 +59,6 @@ const projects = [
   },
   /* 
    * ➕ ADD MORE PROJECTS HERE
-   * Copy the structure above and paste below:
    * 
    * {
    *   title: "Your Project Name",
