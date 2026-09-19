@@ -17,7 +17,6 @@
  * - Upload photos to albums
  * - Delete/reorder photos
  * 
- * =============================================================================
  */
 
 import { useState } from 'react';
