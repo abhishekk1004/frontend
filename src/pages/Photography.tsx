@@ -15,7 +15,6 @@
  * Django backend, can:
  * - Add new albums via admin panel
  * - Upload photos to albums
- * - Delete/reorder photos
  */
 
 import { useState } from 'react';
