@@ -13,8 +13,6 @@
  * 
  * 🔧 ADMIN FUNCTIONALITY:
  * Django backend, can:
- * - Add new albums via admin panel
- * - Upload photos to albums
  */
 
 import { useState } from 'react';
