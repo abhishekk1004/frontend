@@ -10,9 +10,7 @@
  *    - cover: Cover image URL for the album
  *    - photos: Array of photo URLs in that album
  *    - count: Number of photos (update this when adding photos)
- * 
- * 🔧 ADMIN FUNCTIONALITY:
- * Django backend, can:
+ 
  */
 
 import { useState } from 'react';
