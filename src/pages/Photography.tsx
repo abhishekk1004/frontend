@@ -38,7 +38,7 @@ const albums = [
       "/photography/pashupatinath.jpeg",
       "/photography/rajdevi-temple.jpeg",
       "/photography/gurunanak.jpeg",
-      "/photography/temple.jpeg",
+            "/photography/temple.jpeg",
       
     ],
     count: 7, // Update this when adding/removing photos
