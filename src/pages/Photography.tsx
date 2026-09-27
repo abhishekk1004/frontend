@@ -8,8 +8,6 @@
  * 1. ALBUMS (Lines ~20-80): Add your own photo albums
  *    - name: Album title (e.g., "Temples", "Nature")
  *    - cover: Cover image URL for the album
- *    - photos: Array of photo URLs in that album
- 
  */
 
 import { useState } from 'react';
