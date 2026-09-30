@@ -6,7 +6,6 @@
  * 📍 WHAT TO CUSTOMIZE:
  * 
  * 1. ALBUMS (Lines ~20-80): Add your own photo albums
- *    - name: Album title (e.g., "Temples", "Nature")
  */
 
 import { useState } from 'react';
