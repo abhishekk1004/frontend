@@ -2,7 +2,6 @@
  * =============================================================================
  * HOME PAGE - HERO & LANDING SECTION
  * =============================================================================
- * 
  * 📍 WHAT TO CUSTOMIZE:
  * 
  * 1. HERO VIDEO (Line ~70): Replace the video URL with your own vintage video
