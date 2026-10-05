@@ -106,10 +106,10 @@ const Projects = () => {
         >
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             {[
-              { number: "20+", label: "Projects Completed" },  // 📊 Your project count
-              { number: "5+", label: "Years Experience" },     // 📊 Your experience
-              { number: "15+", label: "Happy Clients" },       // 📊 Clients/collaborators
-              { number: "50+", label: "GitHub Repos" },        // 📊 GitHub repos
+              { number: "5+", label: "Projects Completed" },  // 📊 Your project count
+              { number: "0-1", label: "Years Experience" },     // 📊 Your experience
+              { number: "1+", label: "Happy Clients" },       // 📊 Clients/collaborators
+              { number: "26+", label: "GitHub Repos" },        // 📊 GitHub repos
             ].map((stat, index) => (
               <motion.div
                 key={stat.label}
