@@ -28,7 +28,6 @@ import TypingAnimation from '@/components/TypingAnimation';
  * ============================================
  * 📝 FEATURED BLOGS DATA
  * Replace these with your actual blog posts
- * ============================================
  */
 const featuredBlogs = [
   {
