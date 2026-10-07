@@ -1,6 +1,5 @@
 /**
  * =============================================================================
- * PROJECTS PAGE
  */
 
 import { motion } from 'framer-motion';
@@ -13,7 +12,7 @@ const projects = [
     title: "AI-Powered Sentiment Analyzer",
     description: "A machine learning application that analyzes customer reviews and social media posts to determine sentiment using NLP techniques with Python and TensorFlow.",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800", // 🖼️ Project screenshot
-    tags: ["Python", "TensorFlow", "NLP", "Flask"],
+    tags: ["Python", "TensorFlow", "NLP", "Flask"],  
     liveUrl: "https://example.com",   
     githubUrl: "https://github.com",   
     featured: true,                     
