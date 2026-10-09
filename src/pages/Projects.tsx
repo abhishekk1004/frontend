@@ -1,5 +1,4 @@
 /**
- */
 import { motion } from 'framer-motion';
 import SectionHeader from '@/components/SectionHeader';
 import ProjectCard from '@/components/ProjectCard';
