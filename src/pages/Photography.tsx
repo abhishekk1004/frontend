@@ -11,7 +11,6 @@ import { Button } from '@/components/ui/button';
 const albums = [
   {
     name: "Temples",
-    // 🖼️ COVER IMAGE: Main thumbnail for this album
     cover: "/photography/krishna-mandir.jpeg",
     photos: [
       "/photography/janakitemple.jpeg",
