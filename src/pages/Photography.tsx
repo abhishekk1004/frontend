@@ -16,7 +16,6 @@ const albums = [
     name: "Temples",
     // 🖼️ COVER IMAGE: Main thumbnail for this album
     cover: "/photography/krishna-mandir.jpeg",
-    // 📷 PHOTOS: All images in this album
     photos: [
       "/photography/janakitemple.jpeg",
       "/photography/janakitemple-2.jpeg",
