@@ -10,7 +10,6 @@ import { Button } from '@/components/ui/button';
 
 /**
  * ============================================
- */
 const albums = [
   {
     name: "Temples",
