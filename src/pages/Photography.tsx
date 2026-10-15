@@ -22,7 +22,7 @@ const albums = [
             "/photography/temple.jpeg",
       
     ],
-    count: 7, // Update this when adding/removing photos
+    count: 7, 
   },
   {
     name: "Nature",
