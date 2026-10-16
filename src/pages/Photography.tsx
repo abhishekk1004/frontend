@@ -156,7 +156,6 @@ const Photography = () => {
           {selectedAlbum ? (
             /* ================================================================
                ALBUM PHOTOS VIEW - Shows all photos in selected album
-               ================================================================ */
             <motion.div
               key="photos"
               initial={{ opacity: 0 }}
