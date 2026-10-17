@@ -155,7 +155,6 @@ const Photography = () => {
         <AnimatePresence mode="wait">
           {selectedAlbum ? (
             /* ================================================================
-               ALBUM PHOTOS VIEW - Shows all photos in selected album
             <motion.div
               key="photos"
               initial={{ opacity: 0 }}
