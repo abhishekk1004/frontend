@@ -241,7 +241,6 @@ const Photography = () => {
         </AnimatePresence>
 
         {/* ================================================================
-            LIGHTBOX - Full screen photo viewer
             ================================================================ */}
         <AnimatePresence>
           {lightboxIndex !== null && selectedAlbum && (
