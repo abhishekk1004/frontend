@@ -193,7 +193,6 @@ const Photography = () => {
             </motion.div>
           ) : (
             /* ================================================================
-               ALBUMS GRID VIEW - Shows all album covers
                ================================================================ */
             <motion.div
               key="albums"
