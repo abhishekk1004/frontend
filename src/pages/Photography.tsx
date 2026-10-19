@@ -241,7 +241,6 @@ const Photography = () => {
         </AnimatePresence>
 
         {/* ================================================================
-            ================================================================ */}
         <AnimatePresence>
           {lightboxIndex !== null && selectedAlbum && (
             <motion.div
