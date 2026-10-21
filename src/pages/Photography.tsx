@@ -192,7 +192,6 @@ const Photography = () => {
               </div>
             </motion.div>
           ) : (
-            /* ================================================================
             <motion.div
               key="albums"
               initial={{ opacity: 0 }}
