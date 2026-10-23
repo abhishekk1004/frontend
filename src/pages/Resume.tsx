@@ -47,7 +47,6 @@ const Resume = () => {
           <div className="glass-card rounded-3xl p-8 md:p-12 mb-8">
             <div className="flex flex-col md:flex-row items-center gap-8">
               {/* 
-               * 🖼️ YOUR PROFILE PHOTO
                * Replace this URL with your photo
                */}
               <motion.div
