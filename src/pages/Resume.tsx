@@ -46,8 +46,7 @@ const Resume = () => {
           {/* Profile Header */}
           <div className="glass-card rounded-3xl p-8 md:p-12 mb-8">
             <div className="flex flex-col md:flex-row items-center gap-8">
-              {/* 
-               * Replace this URL with your photo
+              {/* Replace this URL with your photo
                */}
               <motion.div
                 whileHover={{ scale: 1.05, rotate: 3 }}
