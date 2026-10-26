@@ -46,7 +46,7 @@ const Resume = () => {
           {/* Profile Header */}
           <div className="glass-card rounded-3xl p-8 md:p-12 mb-8">
             <div className="flex flex-col md:flex-row items-center gap-8">
-              {/* Replace this URL with your photo */}
+              {/* Replace this URL withphoto */}
               <motion.div
                 whileHover={{ scale: 1.05, rotate: 3 }}
                 className="w-32 h-32 rounded-2xl overflow-hidden border-4 border-primary/30"
@@ -62,7 +62,7 @@ const Resume = () => {
                 <h1 className="font-heading text-3xl md:text-4xl font-bold mb-2">
                   Abhishek Kushwaha
                 </h1>
-                {/* 💼 YOUR TITLE */}
+                {/* TITLE */}
                 <p className="text-primary text-lg font-medium mb-3">
                   Python-Django Developer | ML Enthusiast | DevOps Learner
                 </p>
