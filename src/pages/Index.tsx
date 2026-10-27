@@ -5,7 +5,6 @@
  * 📍 WHAT TO CUSTOMIZE:
  * 
  * 1. HERO VIDEO (Line ~70): Replace the video URL with your own vintage video
- * 2. VIDEO POSTER (Line ~68): Fallback image if video doesn't load
  */
 
 import { motion, useScroll, useTransform } from 'framer-motion';
