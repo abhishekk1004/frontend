@@ -6,8 +6,6 @@
  * 
  * 1. HERO VIDEO (Line ~70): Replace the video URL with your own vintage video
  * 2. VIDEO POSTER (Line ~68): Fallback image if video doesn't load
- * 3. PROFILE PHOTO (Line ~142): Your profile picture URL
- * 4. NAME & TITLE (Lines ~103-107): Your name and tagline
  */
 
 import { motion, useScroll, useTransform } from 'framer-motion';
