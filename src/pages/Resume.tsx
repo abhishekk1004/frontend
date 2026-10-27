@@ -207,7 +207,7 @@ const Resume = () => {
                     <h2 className="font-heading text-xl font-bold text-primary mb-4 flex items-center gap-2">
                       <FileText className="h-5 w-5" /> Professional Summary
                     </h2>
-                    {/* 📝 YOUR PROFESSIONAL SUMMARY */}
+                    {/* PROFESSIONAL SUMMARY */}
                     <p className="text-muted-foreground leading-relaxed">
                       Passionate and detail-oriented Python-Django developer with expertise in building scalable 
                       web applications and REST APIs. Strong background in machine learning and data science, 
