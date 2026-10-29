@@ -11,7 +11,7 @@
  * 5. DESCRIPTION (Lines ~109-113): About you paragraph
  * 6. SKILLS (Line ~40-45): Your main skills/expertise
  * 7. FEATURED BLOGS (Lines ~9-38): Replace with your actual blog posts
- * 
+
  * =============================================================================
  */
 
