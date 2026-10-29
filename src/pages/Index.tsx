@@ -9,7 +9,6 @@
  * 3. PROFILE PHOTO (Line ~142): Your profile picture URL
  * 4. NAME & TITLE (Lines ~103-107): Your name and tagline
  * 5. DESCRIPTION (Lines ~109-113): About you paragraph
- * 6. SKILLS (Line ~40-45): Your main skills/expertise
  */
 
 import { motion, useScroll, useTransform } from 'framer-motion';
